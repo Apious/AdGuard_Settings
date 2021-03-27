@@ -10,5 +10,4 @@
 4. 1번에 요청시 Ticket Open 되며 완료시 Closed 됩니다.
 
 - 파일 다운은 아래 방법 참고 하세요.
-[Go to file] [Add File] [ Code ] 에서 코드를 누르면 [Download ZIP] 으로 다운이 가능합니다
-
+가장 최근 버전 선택 > Raw 오른쪽 클릭후 다른이름으로 저장
