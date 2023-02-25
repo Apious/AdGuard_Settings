@@ -12,7 +12,8 @@
 - 파일 다운은 아래 방법 참고 하세요.
 가장 최근 버전 선택 > Raw 오른쪽 클릭후 다른이름으로 저장
 
-- 다운방법 > [Assets3] 터치 > 압축아닌 json 파일 다운 > 애드가드 - 설정 - 일반 "불러오기" json파일 지정
+- 다운 = [Assets] 터치 > 항목 파일 다운
+- Adguard Import = 하단 - 설정 - 우측 상단 3점
 
 - 광고차단 주소 추가
 1. Contents / https://raw.githubusercontent.com/Apious/Ads_Filter_Contents/1st/Ads_Filter_Contents.txt
