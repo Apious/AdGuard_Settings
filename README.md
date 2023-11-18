@@ -17,4 +17,5 @@
 
 - 광고차단 주소 추가
 1. Contents / https://raw.githubusercontent.com/Apious/Ads_Filter_Contents/1st/Ads_Filter_Contents.txt
-2. DNS / https://raw.githubusercontent.com/Apious/Ads_Filter_DNS/1st/Ads_Filter_DNS.txt
+2. 미작동에 의한 예비 / https://raw.githubusercontent.com/Apious/Ads_Filter_Contents/1st/Ads_Filter_Contents_.txt
+3. DNS / https://raw.githubusercontent.com/Apious/Ads_Filter_DNS/1st/Ads_Filter_DNS.txt
