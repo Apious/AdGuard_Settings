@@ -14,8 +14,8 @@
 
 - 다운 = [Assets] 터치 > 항목 파일 다운
 - Adguard Import = 하단 - 설정 - 우측 상단 3점
+- uBlock Origin에서 미작동해서 이름 변경 했습니다 / 원인을 모르겠음 아시는 분은 제보 바랍니다
 
 - 광고차단 주소 추가
-1. Contents / https://raw.githubusercontent.com/Apious/Ads_Filter_Contents/1st/Ads_Filter_Contents.txt
-2. 미작동에 의한 예비 / https://raw.githubusercontent.com/Apious/Ads_Filter_Contents/1st/Ads_Filter_Contents_.txt
-3. DNS / https://raw.githubusercontent.com/Apious/Ads_Filter_DNS/1st/Ads_Filter_DNS.txt
+1. Contents / https://raw.githubusercontent.com/Apious/Ads_Filter_Contents/1st/Ads_Block_Contents.txt
+2. DNS / https://raw.githubusercontent.com/Apious/Ads_Filter_DNS/1st/Ads_Block_DNS.txt
